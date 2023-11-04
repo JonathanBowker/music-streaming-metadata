@@ -61,6 +61,74 @@ To achieve this goal, they agree to:
   }
 }
 ```
+Sample data:
+```
+{
+  "MusicStreamingMetadata": [
+    {
+      "TrackID": 1,
+      "TrackTitle": "Shape of You",
+      "Artist": "Ed Sheeran",
+      "Album": "÷ (Divide)",
+      "ReleaseDate": "2017-01-06",
+      "Genre": "Pop",
+      "ISRC": "GBAHS1700025",
+      "Duration": "3:53",
+      "StreamingPlatformData": {
+        "Spotify": {
+          "Plays": 2997523910,
+          "URL": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+        },
+        "AppleMusic": {
+          "Plays": 1298741029,
+          "URL": "https://music.apple.com/gb/album/shape-of-you/1193701070?i=1193701392"
+        }
+      }
+    },
+    {
+      "TrackID": 2,
+      "TrackTitle": "Blinding Lights",
+      "Artist": "The Weeknd",
+      "Album": "After Hours",
+      "ReleaseDate": "2019-11-29",
+      "Genre": "Synth-pop",
+      "ISRC": "USUG11904206",
+      "Duration": "3:20",
+      "StreamingPlatformData": {
+        "Spotify": {
+          "Plays": 2856963408,
+          "URL": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+        },
+        "AppleMusic": {
+          "Plays": 984751029,
+          "URL": "https://music.apple.com/gb/album/blinding-lights/1481625743?i=1481625749"
+        }
+      }
+    },
+    {
+      "TrackID": 3,
+      "TrackTitle": "Dance Monkey",
+      "Artist": "Tones and I",
+      "Album": "The Kids Are Coming",
+      "ReleaseDate": "2019-05-10",
+      "Genre": "Electropop",
+      "ISRC": "AUSZ21900097",
+      "Duration": "3:29",
+      "StreamingPlatformData": {
+        "Spotify": {
+          "Plays": 2424921567,
+          "URL": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+        },
+        "AppleMusic": {
+          "Plays": 837402859,
+          "URL": "https://music.apple.com/gb/album/dance-monkey/1468058165?i=1468058168"
+        }
+      }
+    }
+  ]
+}
+```
+
 
 ![image](https://github.com/JonathanBowker/music-streaming-metadata/assets/1875500/7f568bf0-ad79-4e02-a4a6-6cb6a6123b06)
 
