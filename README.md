@@ -91,6 +91,46 @@ Below is a basic JSON schema that defines the structure and data types expected 
 }
 ```
 
+This is an example:
+```
+{
+  "SoundRecordingMetadata": {
+    "RecordingTitle": "Example Title",
+    "Subtitle": "Example Subtitle",
+    "RecordingArtists": [
+      {
+        "Name": "Artist Name",
+        "IPN": "Artist's IPN if available",
+        "ISNI": "Artist's ISNI if available"
+      }
+    ],
+    "PerformerStudio": "Example Studio",
+    "ProducerPersonnel": [
+      {
+        "Name": "Producer Name",
+        "Role": "Producer",
+        "IPN": "Producer's IPN if available",
+        "ISNI": "Producer's ISNI if available"
+      }
+    ],
+    "ISRC": "International Standard Recording Code"
+  },
+  "MusicalWorkMetadata": {
+    "WorkTitle": "Example Work Title",
+    "Subtitle": "Example Work Subtitle",
+    "Writers": [
+      {
+        "Name": "Writer Name",
+        "Role": "Composer",
+        "IPI": "Writer's IPI if available",
+        "ISNI": "Writer's ISNI if available"
+      }
+    ],
+    "ISWC": "International Standard Musical Work Code"
+  }
+}
+```
+
 This schema provides a framework for structuring music metadata and can be further customised or extended based on specific requirements or additional metadata fields.
 
 It is essential for anyone using this cookbook to understand that metadata management is an evolving process, and this guide is intended as a starting point. Regular updates and industry consultations are advisable to keep up with best practices and changes in metadata standards.
