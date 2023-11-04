@@ -161,7 +161,7 @@ Education and awareness of the importance of metadata is vital for all parts of 
 - considering how to best effectively raise awareness and standards of metadata input across the music industry at all levels with a communication strategy to maximise impact
 - working with Credits Due and WIPO for Creators to maximise global reach
 
-Technical Solutions Expert Group
+## Technical Solutions Expert Group
 Industry acknowledges that well-functioning technology, supported by consistent standards, formats and rules, is fundamental to meeting the future metadata ambition. This group will consider current workflows, data authority, standards, formats and technologies, and how to improve them to support the consistent delivery of the core data set. The Metadata Code of Good Practice (Annex A) should be updated as appropriate should improved flows or new authoritative data sources be developed. Membership of this group will comprise experts who work with and control data systems and processes and are able to develop and deliver any required changes. The group will also seek close cooperation with international partners including DDEX and CISAC, to help support the development of international standards and encourage the wider availability of IPI and ISWC codes.
 
 The IPO is committed to long term solutions and will fund an external consultant with music industry metadata knowledge to support the group. They will support the group to catalogue and map existing metadata flows and baseline and identify meaningful KPIs to be measured at key points in the data chain. The KPIs will be developed within six months of the project start date. They should be shared with the signatories to the agreement as soon as possible and published as appropriate.
