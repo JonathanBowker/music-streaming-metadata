@@ -191,7 +191,7 @@ The signatories agree that good practice includes, but is not limited to, the fo
 ## Implementation and further development
 The practice set out above is intended to represent current good practice in the industry. Signatories should aim to implement this good practice as soon as they are able to. It should be noted that the good practice is not exhaustive and does not describe every use case where metadata is involved. As a result of ongoing developments in good practice, including through the work of the Expert Groups, it may be appropriate for the Code to be updated. For example, the Code may be updated to reflect improved processes and workflows, and new authoritative data sources. Any amendments to the Code would require agreement of the Steering Group, and endorsement by its signatories.
 
-### Terminology
+## Terminology
 **Releasing parties** are those parties responsible for delivering the recording to service providers. This includes record labels, distributors and aggregators.
 
 **Service providers** are providers of online music streaming services to consumers. For the purposes of this agreement, this does not include User Generated Content platforms.
