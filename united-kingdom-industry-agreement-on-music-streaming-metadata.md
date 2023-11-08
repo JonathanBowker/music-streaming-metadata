@@ -240,3 +240,39 @@ Other outputs from the group should include:
 - exploring systems and processes for recording and sharing authoritative and definitive links between songs and recordings. This could mean developing new or enhanced data flows, building on existing databases or developing new ones, and could lead to a definitive ISRC-ISWC link registry. Any such systems or processes should be practical to implement and databases should be as open as possible and easily accessible to those who need to use them
 - exploring systems, tools and processes to make it easier for creators and managers to capture and communicate metadata to others in the value chain. This could mean developing new tools, workflows and formats, or building on existing ones, that are easy to use and widely accepted across the value chain. It should also consider, with the education group, how to promote the uptake and adoption of data capture tools
 - exploring enrichments to Service Provider Preferred Music Distributor Provider Programs
+
+
+## The current members of the Technical Solutions Group are:
+
+- **Chair: Scott Farrant**
+Head of Industry Affairs & Society Relations, Kobalt Music 
+- **Cameron Craig**
+Executive Director, Music Producers Guild 
+- **Charlie Phillips**
+Interim Chief Operations Officer, The Ivors Academy  
+- **Dave Ball**
+Director of Metadata Operations, Universal Music Group  
+- **Magali Clapier**
+Director Publishing Operations, Spotify 
+- **Mark Douglas**
+Chief Information Officer, Phonographic Performance Limited (PPL) 
+- **Mark Krajewski**
+Chief Information Officer, Performing Right Society (PRS for Music)  
+- **Matt Phipps-Taylor**
+Chief Information Officer, peermusic 
+- **Paul Butler**
+Head of Digital Supply Chain Operations, FUGA 
+- **Paul Fisher**
+Head of Repertoire Operations, Integral Distribution Services 
+- **Pip Newby**
+Songwriter Management, Founder, Friends Vs Music 
+- **Robert Hill**
+Client Services and Operations Manager, Horus Music  
+- **Ross Greening**
+Senior Vice President European Regional Administration and Global Copyright/Society Relations, Universal Music Publishing Group 
+- **Shabir Bakhtiar**
+Finance and Royalties Assistant, Hospital Records 
+- **Stephanie Ayres**
+Director Global Tech Rights Platforms, Sony Music 
+- **Vicky Fry**
+Chief Information Officer, Beggars Group
